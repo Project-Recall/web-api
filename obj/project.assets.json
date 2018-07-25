@@ -12668,11 +12668,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tjted\\Development\\Project-Recall\\recall-web\\recall-web.csproj",
+      "projectUniqueName": "c:\\Users\\tjted\\Development\\Project-Recall\\web-api\\recall-web.csproj",
       "projectName": "recall-web",
-      "projectPath": "C:\\Users\\tjted\\Development\\Project-Recall\\recall-web\\recall-web.csproj",
+      "projectPath": "c:\\Users\\tjted\\Development\\Project-Recall\\web-api\\recall-web.csproj",
       "packagesPath": "C:\\Users\\tjted\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tjted\\Development\\Project-Recall\\recall-web\\obj\\",
+      "outputPath": "c:\\Users\\tjted\\Development\\Project-Recall\\web-api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
