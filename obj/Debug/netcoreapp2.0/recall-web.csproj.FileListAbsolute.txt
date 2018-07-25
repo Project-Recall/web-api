@@ -1,0 +1,11 @@
+C:\Users\tjted\Development\Project-Recall\web-api\bin\Debug\netcoreapp2.0\recall-web.deps.json
+C:\Users\tjted\Development\Project-Recall\web-api\bin\Debug\netcoreapp2.0\recall-web.runtimeconfig.json
+C:\Users\tjted\Development\Project-Recall\web-api\bin\Debug\netcoreapp2.0\recall-web.runtimeconfig.dev.json
+C:\Users\tjted\Development\Project-Recall\web-api\bin\Debug\netcoreapp2.0\recall-web.dll
+C:\Users\tjted\Development\Project-Recall\web-api\bin\Debug\netcoreapp2.0\recall-web.pdb
+C:\Users\tjted\Development\Project-Recall\web-api\obj\Debug\netcoreapp2.0\recall-web.csprojAssemblyReference.cache
+C:\Users\tjted\Development\Project-Recall\web-api\obj\Debug\netcoreapp2.0\recall-web.csproj.CoreCompileInputs.cache
+C:\Users\tjted\Development\Project-Recall\web-api\obj\Debug\netcoreapp2.0\recall-web.AssemblyInfoInputs.cache
+C:\Users\tjted\Development\Project-Recall\web-api\obj\Debug\netcoreapp2.0\recall-web.AssemblyInfo.cs
+C:\Users\tjted\Development\Project-Recall\web-api\obj\Debug\netcoreapp2.0\recall-web.dll
+C:\Users\tjted\Development\Project-Recall\web-api\obj\Debug\netcoreapp2.0\recall-web.pdb
