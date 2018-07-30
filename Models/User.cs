@@ -1,5 +1,3 @@
-
-
 namespace recall_web.Models
 {
     public class User
