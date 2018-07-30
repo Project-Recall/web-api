@@ -8,6 +8,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using recall_web.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace recall_web
 {
@@ -23,7 +25,10 @@ namespace recall_web
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            //Adds the MVC framework
             services.AddMvc();
+            //Adds the Database Context
+            services.AddDbContext<RecallContext>(options => options.UseSqlServer(Configuration.GetConnectionString("RecallDatabase")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -32,6 +37,7 @@ namespace recall_web
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
+                app.UseDatabaseErrorPage();
             }
 
             app.UseMvc();
